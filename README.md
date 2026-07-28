@@ -127,7 +127,7 @@ The complete demonstration is available [here](demo/dashboard_demo.mp4).
  
 ## Genre Performance and User Activity
  
-![Genre Performance and User Activity](images/dashboards/genre_and_users_dashboard.png)
+![Genre Performance and User Activity](images/dashboards/genres_and_users_dashboard.png)
  
 ---
  
